@@ -29,8 +29,6 @@ A clean, animated personal portfolio website built from scratch using pure **HTM
 - **Contact form** — Fully functional form with success feedback
 - **Social links** — Email, Instagram, GitHub, LinkedIn with branded icons
 - **Resume download** — Direct CV download button in hero and mobile menu
-- **Favicon** — Custom SVG favicon (no external file needed)
-- **Footer** — Heartbeat animation on the ❤ icon
 
 ---
 
