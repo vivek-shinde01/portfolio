@@ -1,4 +1,4 @@
-# Vivek Shinde — Personal Portfolio Website
+# Vivek Shinde - Personal Portfolio Website
 
 A clean, animated personal portfolio website built from scratch using pure **HTML**, **CSS**, and **JavaScript** — no frameworks, no build tools. Fully mobile responsive.
 
@@ -6,7 +6,7 @@ A clean, animated personal portfolio website built from scratch using pure **HTM
 
 ## 🌐 Live Demo
 
-> [https://vivekshinde.dev](https://vivekshinde.dev) *(replace with your actual link)*
+> [https://vivekshinde.dev](https://vivekshinde.dev)
 
 ---
 
@@ -100,11 +100,11 @@ No npm, no dependencies, no build step — just open and go.
 To make this portfolio your own, update the following in `index.html`:
 
 ```
-Name          →  Search "Alex Sharma" → replace with your name
-Email         →  Search "alex@example.com" → your email
-Instagram     →  Search "@alexsharma_dev" → your handle
-GitHub        →  Search "github.com/alexsharma" → your profile
-LinkedIn      →  Search "linkedin.com/in/alexsharma" → your profile
+Name          →  Search "Vivek Shinde" → replace with your name
+Email         →  Search "abc@example.com" → your email
+Instagram     →  Search "@abc_dev" → your handle
+GitHub        →  Search "github.com/abc" → your profile
+LinkedIn      →  Search "linkedin.com/in/abc" → your profile
 Resume        →  Replace resume.pdf with your actual CV file
 Projects      →  Update project titles, descriptions, and links
 Skills        →  Add/remove .sk-tag elements in the skills section
